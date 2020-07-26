@@ -1,0 +1,6 @@
+.idea
+target
+test-output
+challenge.iml
+debug.log
+src/main/resources
